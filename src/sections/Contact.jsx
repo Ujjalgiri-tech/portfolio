@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ParticlesBackground from "../components/ParticlesBackground";
-import emailjs from "@emailjs/Browser";
+import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";     
 import Connect from "../assets/Connect.png";
 
